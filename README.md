@@ -2,6 +2,10 @@
 
 SysmonFind is a Sysmon event search engine, both local and remote, that allows you to analyze or investigate security incidents in real time. Sysmon must be installed on the computer.
 
+# How to install Sysmon and create a Standard for use and Updates
+
+https://github.com/mikeHack23/SYSMON_INSTALL
+
 # Summary
 
 Application to read sysmon logs, either local or from remote computers, this application searches whatever, based on free searches or Regex searches, what can you do?
@@ -44,4 +48,12 @@ Examples:
 ```http
 [0-9][0-9][0-9][0-9]?\.exe
 ```
+
+# Security
+The program encrypts the password, so that no other application has access to the passwords used.
+
+# Requirements
+1. https://github.com/mikeHack23/SYSMON_INSTALL
+2. https://download.visualstudio.microsoft.com/download/pr/06239090-ba0c-46e2-ad3e-6491b877f481/c5e4ab5e344eb3bdc3630e7b5bc29cd7/windowsdesktop-runtime-6.0.21-win-x64.exe
+
 

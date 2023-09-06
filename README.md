@@ -44,7 +44,7 @@ Examples:
 ```
 ### Look up court case numbers
 ```http
-(?<=[A-Za-z]{2}\d{2}-)\d{4,5}-\d{2}\.\d{4}\.\d{1}\.\d{2}\.\d{4}
+\b\d{2}-\d{6}-\d{4}-[A-Z]{2}\b
 ```
 ### Files generated with sequence: 0549.exe, 0550.exe, 0560.exe
 ```http

@@ -56,6 +56,9 @@ The program encrypts the password, so that no other application has access to th
 
 # Requirements
 1. https://github.com/mikeHack23/SYSMON_INSTALL
-2. https://download.visualstudio.microsoft.com/download/pr/06239090-ba0c-46e2-ad3e-6491b877f481/c5e4ab5e344eb3bdc3630e7b5bc29cd7/windowsdesktop-runtime-6.0.21-win-x64.exe
+2. 64 bit Architecture
+3. https://download.visualstudio.microsoft.com/download/pr/06239090-ba0c-46e2-ad3e-6491b877f481/c5e4ab5e344eb3bdc3630e7b5bc29cd7/windowsdesktop-runtime-6.0.21-win-x64.exe
+
+
 
 

@@ -1,5 +1,7 @@
 # SysmonFind
 
+![image](https://github.com/mikeHack23/SysmonFind/assets/32471855/92a57bec-fb6d-4a02-866c-dc5cfdf70e69)
+
 SysmonFind is a Sysmon event search engine, both local and remote, that allows you to analyze or investigate security incidents in real time. Sysmon must be installed on the computer.
 
 # How to install Sysmon and create a Standard for use and Updates

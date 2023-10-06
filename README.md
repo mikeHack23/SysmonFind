@@ -61,5 +61,10 @@ The program encrypts the password, so that no other application has access to th
 # Video
 https://youtu.be/uzA-QOV--mo
 
+# Audit
+
+- folder "SysmonFind_Log" file .log
+- folder "\AppData\Local\SysmonFind" file .log
+
 
 

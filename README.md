@@ -63,8 +63,8 @@ https://youtu.be/uzA-QOV--mo
 
 # Audit
 
-- folder "SysmonFind_Log" file .log
-- folder "\AppData\Local\SysmonFind" file .log
+* folder "SysmonFind_Log" file .log
+* folder "\AppData\Local\SysmonFind" file .log
 
 
 

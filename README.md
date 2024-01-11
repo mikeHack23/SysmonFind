@@ -50,6 +50,10 @@ Examples:
 ```http
 [0-9][0-9][0-9][0-9]?\.exe
 ```
+### Files generated with sequence: chymbacjDriverUpgradeMastersynlDriverBoost.exe, chymmtwmDriverOptimizerExpertfuqpDriverDiagnostics.exe
+```http
+.*Driver.*Driver.*\.exe.*
+```
 
 # Security
 The program encrypts the password, so that no other application has access to the passwords used.
